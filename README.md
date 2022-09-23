@@ -47,7 +47,11 @@ But it’s important to keep in mind that this project is just to build your HTM
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+In this project I have learned:
+- HTML
+- CSS
+- Javascript
+- Git
 
 Proud of the following codes:
 
