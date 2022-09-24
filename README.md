@@ -26,12 +26,6 @@ But it’s important to keep in mind that this project is just to build your HTM
 
 - To build a basic recipe website.
 
-### Screenshot
-
-<!-- ![](./images/screenshot-desktop.png) -->
-
-<!-- ![](./images/screenshot-mobile.png) -->
-
 ### Links
 
 - [Solution URL](https://github.com/unonewcreations/odin-recipes)
